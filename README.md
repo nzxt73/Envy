@@ -1,2 +1,5 @@
 # Envy
-Simplist, free and open-source name sniper.
+Simplistic, free and open-source name sniper.
+
+
+# Coming soon...
